@@ -1,2 +1,2 @@
 # AppListaTareasWebPack
-Creación de una APP de tareas usando webpack
+Creación de una APP de tareas usando webpack 📱
